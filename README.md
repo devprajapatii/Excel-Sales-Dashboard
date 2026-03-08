@@ -1,6 +1,6 @@
 📊 Superstore Sales Dashboard (Excel Project)
 
-🔹 Project Overview
+🔹 Project Overview: 
 This project presents an interactive Excel dashboard built using the popular Superstore dataset.  
 The dashboard helps analyze sales performance, profit trends, and regional insights.
 
